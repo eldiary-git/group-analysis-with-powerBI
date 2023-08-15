@@ -24,3 +24,5 @@ Assess the diversity of the group based on various attributes, such as gender, e
 Navigate through interactive dashboards, allowing you to drill down into specific details and explore custom insights tailored to your needs.
 
 This PowerBI project empowers you to make data-driven decisions by providing a comprehensive view of your group members' characteristics and roles. Whether for strategic planning, team optimization, or fostering diversity and inclusion, this analysis will be an invaluable asset to your organization.
+
+* Please note that the data will shared privately if needed. 
