@@ -1,4 +1,5 @@
-# group-analysis-with-powerBI
+# PowerBI Group Members Analysis Project
+
 This PowerBI project provides an insightful analysis of group members, offering a comprehensive overview of their demographics and roles within the organization. By leveraging visualizations and data-driven insights, this analysis sheds light on various key aspects:
 
 # Member Details
